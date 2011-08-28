@@ -36,6 +36,7 @@ module Portfolio
     config.generators do |g|
       g.stylesheets false
       g.stylesheet_engine = :sass
+      g.template_engine :haml
     end
 
     # Configure the default encoding used in templates for Ruby 1.9.
