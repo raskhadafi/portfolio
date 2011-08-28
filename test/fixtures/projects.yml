@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  realized_in: 2011-08-10
+  url: MyString
+  name: MyString
+  description: MyText
+
+two:
+  realized_in: 2011-08-10
+  url: MyString
+  name: MyString
+  description: MyText
