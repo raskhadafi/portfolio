@@ -76,6 +76,7 @@ gem 'coffee-script'
 
 # gem 'kuhsaft', :git => 'git://github.com/CyTeam/kuhsaft.git', :branch => 'rails31'
 gem 'kuhsaft', :path => '/Users/roman/dev/ruby/cyt/kuhsaft'
+gem 'devise'
 
 # Monitoring
 # ==========
